@@ -1,0 +1,11 @@
+Analysis
+
+1. Time Complexity of Recursive Algorithm
+Time Complexity:
+
+Time Complexity: O(n)
+Explanation: The recursive algorithm makes a single call for each period, leading to a linear time complexity proportional to the number of periods.
+2. Space Complexity:
+
+Space Complexity: O(n)
+Explanation: The space complexity is also linear because each recursive call adds a new frame to the call stack.

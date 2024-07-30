@@ -1,0 +1,17 @@
+Analysis
+
+Time Complexity Comparison
+
+
+Linear Search:
+
+Best Case: O(1) - The target product is the first element.
+Average Case: O(n) - The target product is somewhere in the middle or at the end.
+Worst Case: O(n) - The target product is the last element or not present.
+
+
+Binary Search:
+
+Best Case: O(1) - The target product is the middle element.
+Average Case: O(log n) - The target product is found after a few divisions of the array.
+Worst Case: O(log n) - The target product is the last element to be found or not present.

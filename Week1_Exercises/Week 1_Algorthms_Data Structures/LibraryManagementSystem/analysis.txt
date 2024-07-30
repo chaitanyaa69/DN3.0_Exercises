@@ -1,0 +1,13 @@
+Analysis
+
+Time Complexity of Search Algorithms
+
+1. Linear Search:
+
+Time Complexity: O(n)
+Explanation: Each element in the list is checked sequentially.
+
+2. Binary Search:
+
+Time Complexity: O(log n)
+Explanation: The search interval is halved with each step.

@@ -1,0 +1,22 @@
+Analysis
+Time Complexity of Operations
+
+1. Add Employee
+
+Time Complexity O(1) (when the array is not full)
+Explanation Adding an element to the next available position in the array takes constant time.
+
+2. Search Employee
+
+Time Complexity O(n)
+Explanation In the worst case, we may need to search through all elements to find the target employee.
+
+3. Traverse Employees
+
+Time Complexity O(n)
+Explanation Traversing through all elements in the array takes linear time.
+
+4. Delete Employee
+
+Time Complexity O(n)
+Explanation Deleting an element involves shifting all subsequent elements to fill the gap, which takes linear time.

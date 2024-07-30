@@ -1,0 +1,26 @@
+Analysis
+
+Time Complexity Analysis
+
+1. Add Product:
+
+Operation: inventory.put(product.getProductId(), product)
+Time Complexity: O(1) average case.
+
+
+2. Update Product:
+
+Operation: inventory.put(product.getProductId(), product)
+Time Complexity: O(1) average case (same as add since it replaces the value).
+
+
+3. Delete Product:
+
+Operation: inventory.remove(productId)
+Time Complexity: O(1) average case.
+
+
+4. Get Product:
+
+Operation: inventory.get(productId)
+Time Complexity: O(1) average case.

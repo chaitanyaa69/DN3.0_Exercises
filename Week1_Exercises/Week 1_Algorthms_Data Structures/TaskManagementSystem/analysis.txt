@@ -1,0 +1,22 @@
+Analysis
+Time Complexity of Operations
+
+1. Add Task:
+
+Time Complexity: O(n) (where n is the number of tasks)
+Explanation: Adding a task involves traversing to the end of the list, which takes linear time.
+
+2. Search Task:
+
+Time Complexity: O(n)
+Explanation: In the worst case, we may need to search through all tasks to find the target task.
+
+3. Traverse Tasks:
+
+Time Complexity: O(n)
+Explanation: Traversing through all tasks takes linear time.
+
+4. Delete Task:
+
+Time Complexity: O(n)
+Explanation: Deleting a task involves searching for the task, which takes linear time.
