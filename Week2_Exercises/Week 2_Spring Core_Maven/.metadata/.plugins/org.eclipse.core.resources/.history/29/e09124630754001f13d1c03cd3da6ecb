@@ -1,0 +1,39 @@
+<dependencies>
+    <!-- Spring Core Dependency -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-core</artifactId>
+        <version>5.3.9</version> <!-- Use the version consistent with your Spring setup -->
+    </dependency>
+
+    <!-- Spring AOP Dependency -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-aop</artifactId>
+        <version>5.3.9</version> <!-- Use the version consistent with your Spring setup -->
+    </dependency>
+
+    <!-- Spring Context Dependency -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>5.3.9</version> <!-- Use the version consistent with your Spring setup -->
+    </dependency>
+
+    <!-- Log4j or SLF4J Dependency for Logging -->
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.32</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.14.1</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-api</artifactId>
+        <version>2.14.1</version>
+    </dependency>
+</dependencies>
